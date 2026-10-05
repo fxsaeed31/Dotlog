@@ -1,0 +1,7 @@
+{
+  "appId": "app.dotlog.journal",
+  "appName": "Dotlog",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#EEF2F4" }
+}
